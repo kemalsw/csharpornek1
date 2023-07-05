@@ -1,0 +1,7 @@
+C:\Users\Asus\Desktop\csharpodeev\csharpodeev\bin\Debug\csharpodeev.exe.config
+C:\Users\Asus\Desktop\csharpodeev\csharpodeev\bin\Debug\csharpodeev.exe
+C:\Users\Asus\Desktop\csharpodeev\csharpodeev\bin\Debug\csharpodeev.pdb
+C:\Users\Asus\Desktop\csharpodeev\csharpodeev\obj\Debug\csharpodeev.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\csharpodeev\csharpodeev\obj\Debug\csharpodeev.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\csharpodeev\csharpodeev\obj\Debug\csharpodeev.exe
+C:\Users\Asus\Desktop\csharpodeev\csharpodeev\obj\Debug\csharpodeev.pdb
